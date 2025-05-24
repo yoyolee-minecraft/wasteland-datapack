@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "on_consume": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "components": {
+            "minecraft:custom_data":{
+              "mutate":true
+            }
+          }
+        }
+      }
+    }    
+  },
+  "rewards": {
+    "function": "wasteland:mutation/mutation_count"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "quilt_loader": {
+    "group": "com.modrinth",
+    "id": "wasteland",
+    "version": "1.21.4",
+    "metadata": {
+      "name": "wasteland",
+      "description": "Wasteland"
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary",
+    "depends": [
+      {
+        "id": "quilt_resource_loader",
+        "versions": "*",
+        "unless": "fabric-resource-loader-v0"
+      }
+    ]
+  }
+}

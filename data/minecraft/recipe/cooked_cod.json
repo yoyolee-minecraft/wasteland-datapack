@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": "minecraft:cod",
+  "result": {
+    "id": "minecraft:cooked_cod",
+    "components": {
+        "minecraft:item_model": "wasteland:cooked_cod",
+        "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Weird Cooked Cod\"}",
+        "minecraft:custom_data": {
+          "mutate": true
+        }
+    }
+  }
+}

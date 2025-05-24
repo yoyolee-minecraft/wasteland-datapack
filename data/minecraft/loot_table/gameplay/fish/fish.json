@@ -1,0 +1,112 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cod",
+          "weight": 60,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "wasteland:cod"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Weird Cod\"}"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "mutate": true
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:salmon",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "wasteland:salmon"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Weird Salmon\"}"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "mutate": true
+              }
+            }
+          ] 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tropical_fish",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "wasteland:tropical_fish"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Weird Tropical Fish\"}"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "mutate": true
+              }
+            }
+          ] 
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pufferfish",
+          "weight": 13,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "wasteland:pufferfish"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Weird Pufferfish\"}"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "mutate": true
+              }
+            }
+          ] 
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "minecraft:gameplay/fishing/fish"
+}

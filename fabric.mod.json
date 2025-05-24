@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "wasteland",
+  "version": "1.21.4",
+  "name": "wasteland",
+  "description": "Wasteland",
+  "license": "LicenseRef-Datapack",
+  "environment": "*",
+  "depends": {
+    "fabric-resource-loader-v0": "*"
+  }
+}
