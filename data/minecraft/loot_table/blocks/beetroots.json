@@ -16,25 +16,25 @@
               "type": "minecraft:item",
               "conditions": [
                 {
-                  "block": "minecraft:wheat",
+                  "block": "minecraft:beetroots",
                   "condition": "minecraft:block_state_property",
                   "properties": {
-                    "age": "7"
+                    "age": "3"
                   }
                 }
               ],
-              "name": "minecraft:wheat",
+              "name": "minecraft:beetroot",
               "functions": [
                 {
                     "function": "minecraft:set_components",
                     "components": {
-                        "minecraft:item_model": "wasteland:wheat"
+                        "minecraft:item_model": "wasteland:beetroot"
                     }
                 },
                 {
                     "function": "minecraft:set_components",
                     "components": {
-                        "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Weird Wheat\"}"
+                        "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Weird Beetroot\"}"
                     }
                 },
                 {
@@ -47,7 +47,7 @@
             },
             {
               "type": "minecraft:item",
-              "name": "minecraft:wheat_seeds"
+              "name": "minecraft:beetroot_seeds"
             }
           ]
         }
@@ -58,10 +58,10 @@
       "bonus_rolls": 0,
       "conditions": [
         {
-          "block": "minecraft:wheat",
+          "block": "minecraft:beetroots",
           "condition": "minecraft:block_state_property",
           "properties": {
-            "age": "7"
+            "age": "3"
           }
         }
       ],
@@ -79,11 +79,11 @@
               }
             }
           ],
-          "name": "minecraft:wheat_seeds"
+          "name": "minecraft:beetroot_seeds"
         }
       ],
       "rolls": 1
     }
   ],
-  "random_sequence": "minecraft:blocks/wheat"
+  "random_sequence": "minecraft:blocks/beetroots"
 }

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:wheat"
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:bread",
+    "components": {
+        "minecraft:item_model": "minecraft:bread",
+        "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Normal Bread?\"}",
+        "minecraft:custom_data": {
+          "mutate": true
+        }
+    }
+  }
+}
