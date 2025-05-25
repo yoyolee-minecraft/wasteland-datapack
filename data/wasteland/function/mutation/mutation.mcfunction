@@ -15,4 +15,4 @@ effect give @s minecraft:night_vision 60 0 false
 playsound minecraft:entity.zombie.hurt player @s ~ ~ ~ 2 0.5
 
 #提示詞
-say 身體充滿了力量
+title @s title "BROOOOOOOOOOM!"
