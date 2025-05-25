@@ -8,5 +8,5 @@ tag @s add checked
 execute if entity @s[type=player] run title @a times 10 20 10
 
 #自定義怪物
-execute if entity @s[type=zombie] run function wasteland:monster_modify/zombie/zombie
-execute if entity @s[type=skeleton] run function wasteland:monster_modify/skeleton/weapon
+execute if entity @s[type=#zombies] run function wasteland:monster_modify/zombie
+execute if entity @s[type=skeleton] run function wasteland:monster_modify/skeleton
