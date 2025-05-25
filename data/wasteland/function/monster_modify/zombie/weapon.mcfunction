@@ -2,7 +2,7 @@
 execute store result score @s Random run random value 1..100
 
 #換成用loot table
-execute as @s at @s if score @s Random matches 1..99 run loot replace entity @s weapon.mainhand loot wasteland:weapon
+execute at @s if score @s Random matches 1..99 run loot replace entity @s weapon.mainhand loot wasteland:weapon
 #execute if score @s Random matches 1..20 run item replace entity @s weapon.mainhand with iron_shovel
 #execute if score @s Random matches 21..40 run item replace entity @s weapon.mainhand with iron_pickaxe
 #execute if score @s Random matches 41..50 run item replace entity @s weapon.mainhand with rotten_flesh
