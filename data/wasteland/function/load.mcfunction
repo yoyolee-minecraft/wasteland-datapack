@@ -5,7 +5,7 @@ gamerule doWeatherCycle false
 scoreboard objectives add PoisonLevel dummy
 scoreboard players add @a PoisonLevel 0
 
-#海水/雨水暴露時間
+#中毒計時器
 scoreboard objectives add WaterExposureTime dummy
 scoreboard players add @a WaterExposureTime 0
 

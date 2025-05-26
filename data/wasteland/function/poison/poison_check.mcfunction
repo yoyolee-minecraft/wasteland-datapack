@@ -1,7 +1,7 @@
 #中毒記分板減少
 execute if score @s WaterExposureTime matches 1.. run scoreboard players remove @s WaterExposureTime 1
 
-#偵測是否暴露於海水/雨水
+#偵測是否中毒
 execute if score @s WaterExposureTime matches ..1200 at @s run function wasteland:poison/poison_count
 
 #中毒
