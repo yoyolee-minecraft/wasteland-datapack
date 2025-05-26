@@ -1,34 +1,49 @@
 {
-  "type": "minecraft:chest",
+  "type": "minecraft:equipment",
+  "functions": [],
   "pools": [
     {
-      "bonus_rolls": 0,
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "iron_pickaxe",
-          "weight": 2
-        },
-        {
-          "type": "minecraft:item",
-          "name": "iron_axe",
-          "weight": 2
-        },
-        {
-          "type": "minecraft:item",
+          "name": "minecraft:cod",
+          "weight": 100,
           "functions": [
             {
-              "add": false,
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 3,
-                "min": 1
-              },
-              "function": "minecraft:set_count"
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "wasteland:cod"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Weird Cod\"}"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "mutate": true
+              }
             }
-          ],
-          "name": "minecraft:iron_ingot",
-          "weight": 2
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bow",
+          "weight": 200
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_hoe",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_pickaxe",
+          "weight": 100
         },
         {
           "type": "minecraft:item",
@@ -95,15 +110,9 @@
               "mode": "append"
             }
           ],
-          "weight": 3
+          "weight": 100
         }
-      ],
-      "rolls": {
-        "type": "minecraft:uniform",
-        "max": 4,
-        "min": 1
-      }
+      ]
     }
-  ],
-  "random_sequence": "wasteland:survivor_camp_loot"
+  ]
 }
