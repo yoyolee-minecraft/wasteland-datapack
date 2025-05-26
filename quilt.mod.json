@@ -6,7 +6,12 @@
     "version": "1.21.4",
     "metadata": {
       "name": "wasteland",
-      "description": "Wasteland"
+      "description": "Wasteland",
+      "contact": {
+        "homepage": "https://modrinth.com/project/acid-wasteland",
+        "sources": "https://github.com/yoyolee-minecraft/wasteland-datapack",
+        "issues": "https://github.com/yoyolee-minecraft/wasteland-datapack/issues"
+      }
     },
     "intermediate_mappings": "net.fabricmc:intermediary",
     "depends": [
