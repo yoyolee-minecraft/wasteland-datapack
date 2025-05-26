@@ -32,10 +32,12 @@
                     }
                 },
                 {
-                    "function": "minecraft:set_components",
-                    "components": {
-                        "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Weird Beetroot\"}"
-                    }
+                    "function": "minecraft:set_name",
+                    "name": [
+                      {
+                        "translate":  "wasteland.beetroot"
+                      }
+                    ]
                 },
                 {
                     "function": "minecraft:set_custom_data",

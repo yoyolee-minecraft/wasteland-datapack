@@ -79,14 +79,12 @@
               }
             },
             {
-              "function": "set_name",
-              "name": [
+            "function": "minecraft:set_name",
+              "name" :[
                 {
-                  "color": "white",
-                  "text": "Crowbar"
+                  "translate": "wasteland.crowbar"
                 }
-              ],
-              "target": "item_name"
+              ]
             },
             {
               "function": "set_lore",
@@ -94,17 +92,22 @@
                 {
                   "color": "gray",
                   "italic": false,
-                  "text": "When in Main Hand:"
+                  "text": " "
+                },
+                {
+                  "color": "gray",
+                  "italic": false,
+                  "translate": "wasteland.when_in_main_hand"
                 },
                 {
                   "color": "dark_green",
                   "italic": false,
-                  "text": " 10 Attack Damage"
+                  "translate": "wasteland.10_attack_damage"
                 },
                 {
                   "color": "dark_green",
                   "italic": false,
-                  "text": " 1 Attack Speed"
+                  "translate": "wasteland.1_attack_speed"
                 }
               ],
               "mode": "append"

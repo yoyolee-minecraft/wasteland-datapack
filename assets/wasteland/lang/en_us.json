@@ -1,0 +1,18 @@
+{
+    "wasteland.beetroot" : "§aWeird Beetroot",
+    "wasteland.carrots" : "§aWeird Carrot",
+    "wasteland.potatoes" : "§aWeird Potato",
+    "wasteland.wheat" : "§aWeird Wheat",
+    "wasteland.cook_cod" : "§aWeird Cooked Cod",
+    "wasteland.cod" : "§aWeird Cod",
+    "wasteland.salmon" : "§aWeird salmon",
+    "wasteland.cook_salmon" : "§aWeird Cooked salmon",
+    "wasteland.tropical_fish" : "§aWeird Tropical Fish",
+    "wasteland.pufferfish" : "§aWeird Pufferfish",
+    "wasteland.beetroot_soup" : "§aNormal Beetroot Soup",
+    "wasteland.bread" : "§aNormal Bread",
+    "wasteland.crowbar" : "§fCrowbar",
+    "wasteland.when_in_main_hand" : "When in Main Hand:",
+    "wasteland.10_attack_damage" : " 10 Attack Damage",
+    "wasteland.1_attack_speed" : " 1 Attack Speed"
+}

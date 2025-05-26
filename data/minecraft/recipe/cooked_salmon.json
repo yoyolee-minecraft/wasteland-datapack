@@ -8,7 +8,7 @@
     "id": "minecraft:cooked_salmon",
     "components": {
         "minecraft:item_model": "wasteland:cooked_salmon",
-        "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Weird Cooked Salmon\"}",
+        "minecraft:item_name": "{\"translate\":\"wasteland.cook_salmon\"}",
         "minecraft:custom_data": {
           "mutate": true
         }

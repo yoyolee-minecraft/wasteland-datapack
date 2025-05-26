@@ -1,0 +1,18 @@
+{
+    "wasteland.beetroot" : "§a奇怪的甜菜根",
+    "wasteland.carrots" : "§a奇怪的胡蘿蔔",
+    "wasteland.potatoes" : "§a奇怪的馬鈴薯",
+    "wasteland.wheat" : "§a奇怪的小麥",
+    "wasteland.cook_cod" : "§a奇怪的烤鱈魚",
+    "wasteland.cod" : "§a奇怪的鱈魚",
+    "wasteland.salmon" : "§a奇怪的鮭魚",
+    "wasteland.cook_salmon" : "§a奇怪的烤鮭魚",
+    "wasteland.tropical_fish" : "§a奇怪的熱帶魚",
+    "wasteland.pufferfish" : "§a奇怪的河豚",
+    "wasteland.beetroot_soup" : "§a正常的甜菜根湯",
+    "wasteland.bread" : "§a正常的麵包",
+    "wasteland.crowbar" : "§f橇棍",
+    "wasteland.when_in_main_hand" : "在慣用手時:",
+    "wasteland.10_attack_damage" : " 10 攻擊傷害",
+    "wasteland.1_attack_speed" : " 1 攻擊速度"
+}

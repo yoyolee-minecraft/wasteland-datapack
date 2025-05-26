@@ -12,7 +12,7 @@
     "id": "minecraft:bread",
     "components": {
         "minecraft:item_model": "minecraft:bread",
-        "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Normal Bread?\"}",
+        "minecraft:item_name": "{\"translate\":\"wasteland.bread\"}",
         "minecraft:custom_data": {
           "mutate": true
         }

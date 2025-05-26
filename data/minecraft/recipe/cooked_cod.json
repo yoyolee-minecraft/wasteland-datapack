@@ -8,7 +8,7 @@
     "id": "minecraft:cooked_cod",
     "components": {
         "minecraft:item_model": "wasteland:cooked_cod",
-        "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Weird Cooked Cod\"}",
+        "minecraft:item_name": "{\"translate\":\"wasteland.cook_cod\"}",
         "minecraft:custom_data": {
           "mutate": true
         }

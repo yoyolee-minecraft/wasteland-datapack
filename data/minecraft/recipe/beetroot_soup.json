@@ -15,7 +15,7 @@
     "id": "minecraft:beetroot_soup",
     "components": {
         "minecraft:item_model": "minecraft:beetroot_soup",
-        "minecraft:item_name": "{\"color\":\"green\",\"text\":\"Normal Beetroot Soup?\"}",
+        "minecraft:item_name":"{\"translate\":\"wasteland.beetroot_soup\"}",
         "minecraft:custom_data": {
           "mutate": true
         }
