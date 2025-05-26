@@ -8,4 +8,4 @@ execute if score @s WaterExposureTime matches 800 if score @s PoisonLevel matche
 scoreboard players set @s PoisonLevel 3
 
 #粒子效果
-particle minecraft:dust_color_transition{from_color:[0.133,1.000,0.000],scale:1,to_color:[0.831,1.000,0.000]} ~ ~1.2 ~ 0.2 0.2 0.2 5 3 normal
+particle minecraft:dust_color_transition{from_color:[0.133,1.000,0.000],scale:1,to_color:[0.831,1.000,0.000]} ~ ~0.2 ~ 0.2 0.2 0.2 5 3 normal
