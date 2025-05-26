@@ -27,8 +27,8 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:iron_ingot",
-          "weight": 2
+          "name": "minecraft:iron_nugget",
+          "weight": 4
         },
         {
           "type": "minecraft:item",
@@ -95,12 +95,12 @@
               "mode": "append"
             }
           ],
-          "weight": 3
+          "weight": 2
         }
       ],
       "rolls": {
         "type": "minecraft:uniform",
-        "max": 4,
+        "max": 3,
         "min": 1
       }
     }
