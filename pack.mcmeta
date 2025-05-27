@@ -1,10 +1,6 @@
 {
   "pack": {
-    "description": "Wasteland",
-    "pack_format": 61,
-    "supported_formats": [
-      10,
-      71
-    ]
+    "description": "Wasteland V1.0",
+    "pack_format": 61
   }
 }

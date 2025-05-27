@@ -4,8 +4,13 @@
   "version": "1.21.4",
   "name": "wasteland",
   "description": "Wasteland",
-  "license": "LicenseRef-Datapack",
+  "license": "MIT",
   "environment": "*",
+  "icon": "pack.png",
+  "authors": [
+      "yoyolee",
+      "95hihi"
+    ],
   "depends": {
     "fabric-resource-loader-v0": "*"
   },
