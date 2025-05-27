@@ -57,19 +57,19 @@
               "function": "set_components",
               "components": {
                 "minecraft:item_model": "wasteland:crowbar",
-                "!minecraft:attribute_modifiers": {
+                "minecraft:attribute_modifiers": {
                   "modifiers": [
                     {
-                      "id": "attack_speed",
-                      "type": "attack_speed",
-                      "amount": -3,
+                      "type": "minecraft:attack_damage",
+                      "id": "minecraft:empty",
+                      "amount": 9,
                       "operation": "add_value",
                       "slot": "mainhand"
                     },
                     {
-                      "id": "attack_damage",
-                      "type": "attack_damage",
-                      "amount": 9,
+                      "type": "minecraft:attack_speed",
+                      "id": "minecraft:empty",
+                      "amount": -3,
                       "operation": "add_value",
                       "slot": "mainhand"
                     }
