@@ -271,7 +271,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -331,7 +331,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -391,7 +391,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -421,7 +421,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -631,7 +631,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -661,7 +661,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -721,7 +721,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -871,7 +871,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -931,7 +931,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -991,7 +991,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1051,7 +1051,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1111,7 +1111,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1141,7 +1141,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1171,7 +1171,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1261,7 +1261,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1411,7 +1411,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1591,7 +1591,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1621,7 +1621,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1771,7 +1771,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1801,7 +1801,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1831,7 +1831,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -1951,7 +1951,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -2131,7 +2131,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -2191,7 +2191,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -2341,7 +2341,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -2401,7 +2401,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -2461,7 +2461,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -2521,7 +2521,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -2701,7 +2701,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -2941,7 +2941,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3031,7 +3031,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3091,7 +3091,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3151,7 +3151,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3271,7 +3271,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3331,7 +3331,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3361,7 +3361,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3481,7 +3481,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3571,7 +3571,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3601,7 +3601,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3691,7 +3691,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3721,7 +3721,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3871,7 +3871,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -3901,7 +3901,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -4051,7 +4051,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -4111,7 +4111,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -4171,7 +4171,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -4261,7 +4261,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -4291,7 +4291,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -4381,7 +4381,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -4471,7 +4471,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -4651,7 +4651,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -4801,7 +4801,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -4831,7 +4831,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -4981,7 +4981,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -5011,7 +5011,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -5041,7 +5041,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -5161,7 +5161,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -5341,7 +5341,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -5491,7 +5491,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -5551,7 +5551,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -5881,7 +5881,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -5941,7 +5941,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6001,7 +6001,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6031,7 +6031,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6241,7 +6241,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6271,7 +6271,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6331,7 +6331,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6481,7 +6481,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6541,7 +6541,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6601,7 +6601,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6661,7 +6661,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6721,7 +6721,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6751,7 +6751,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6781,7 +6781,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -6871,7 +6871,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -7021,7 +7021,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -7201,7 +7201,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -7231,7 +7231,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -7381,7 +7381,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -7411,7 +7411,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -7441,7 +7441,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -7561,7 +7561,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -7741,7 +7741,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -7801,7 +7801,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -7951,7 +7951,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -8011,7 +8011,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -8071,7 +8071,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -8131,7 +8131,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -8311,7 +8311,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -8551,7 +8551,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -8641,7 +8641,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -8701,7 +8701,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -8761,7 +8761,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -8881,7 +8881,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -8941,7 +8941,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -8971,7 +8971,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9091,7 +9091,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9181,7 +9181,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9211,7 +9211,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9301,7 +9301,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9331,7 +9331,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9481,7 +9481,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9511,7 +9511,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9661,7 +9661,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9721,7 +9721,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9781,7 +9781,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9871,7 +9871,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9901,7 +9901,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -9991,7 +9991,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -10081,7 +10081,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -10261,7 +10261,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -10411,7 +10411,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -10441,7 +10441,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -10591,7 +10591,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -10621,7 +10621,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -10651,7 +10651,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -10771,7 +10771,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -10951,7 +10951,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -11101,7 +11101,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
@@ -11161,7 +11161,7 @@
             ],
             "offset": 0
           },
-          "biome": "minecraft:desert"
+          "biome": "wasteland:desert"
         },
         {
           "parameters": {
