@@ -1,3 +1,4 @@
+#菁英殭屍（5%）
 attribute @s minecraft:attack_damage base set 4
 attribute @s minecraft:attack_knockback base set 1
 attribute @s minecraft:knockback_resistance base set 0.25

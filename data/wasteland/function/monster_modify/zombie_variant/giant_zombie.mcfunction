@@ -1,3 +1,4 @@
+#巨人殭屍（5%）
 attribute @s minecraft:attack_knockback base set 1.5
 attribute @s minecraft:fall_damage_multiplier base set 0.5
 attribute @s minecraft:knockback_resistance base set 0.75

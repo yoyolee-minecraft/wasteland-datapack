@@ -1,11 +1,10 @@
-#中毒記分板減少
-execute if score @s WaterExposureTime matches 1.. run scoreboard players remove @s WaterExposureTime 1
+#偵測是否在水中
+execute unless data entity @s {RootVehicle:{}} if predicate wasteland:in_water run scoreboard players set @s WaterExposuring 1
+execute positioned ~ ~1 ~ if predicate wasteland:in_water run scoreboard players set @s WaterExposuring 1
+
+#偵測是否在雨中
+execute positioned ~ ~1 ~ if predicate wasteland:is_raining run scoreboard players set @s WaterExposuring 1
 
 #偵測是否中毒
-execute if score @s WaterExposureTime matches ..1200 at @s run function wasteland:poison/poison_count
-
-#中毒
-execute if score @s WaterExposureTime matches 199 run function wasteland:poison/level_0
-execute if score @s WaterExposureTime matches 200..599 run function wasteland:poison/level_1
-execute if score @s WaterExposureTime matches 600..999 run function wasteland:poison/level_2
-execute if score @s WaterExposureTime matches 1000.. run function wasteland:poison/level_3
+execute if score @s WaterExposuring matches 1 run scoreboard players add @s WaterExposureTime 2
+execute if score @s WaterExposuring matches 1 run scoreboard players set @s WaterExposuring 0

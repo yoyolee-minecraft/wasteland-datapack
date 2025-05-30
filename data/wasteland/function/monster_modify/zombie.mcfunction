@@ -1,5 +1,5 @@
 #武器
-loot replace entity @s weapon.mainhand loot wasteland:weapon
+loot replace entity @s weapon.mainhand loot wasteland:zombie_weapon
 
 #頭盔
 loot replace entity @s armor.head loot wasteland:helmet
